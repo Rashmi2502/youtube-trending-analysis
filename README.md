@@ -28,3 +28,18 @@ This project includes an interactive dashboard to explore top videos, categories
 ```bash
 git clone https://github.com/Rashmi2502/youtube-trending-analysis.git
 cd youtube-trending-analysis
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run Jupyter Notebook (Optional)
+```bash
+jupyter notebook
+```
+
+### 4. Run Streamlit Dashboard
+```bash
+streamlit run app.py
