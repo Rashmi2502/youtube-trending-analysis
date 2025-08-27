@@ -28,3 +28,17 @@ This project includes an interactive dashboard to explore top videos, categories
 ```bash
 git clone https://github.com/Rashmi2502/youtube-trending-analysis.git
 cd youtube-trending-analysis
+
+### 2. Install Dependencies
+pip install -r requirements.txt
+
+### 3. Run Jupyter Notebook (Optional)
+jupyter notebook
+
+Explore the dataset and analysis in notebook.ipynb.
+
+### 4. Run Streamlit Dashboard
+streamlit run app.py
+
+Use the sidebar to select country and category filters.
+View top videos, channels, and categories interactively.
