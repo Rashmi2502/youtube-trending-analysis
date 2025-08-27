@@ -1,0 +1,15 @@
+# Core
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter
+notebook
+ipykernel
+
+# Web App
+streamlit
